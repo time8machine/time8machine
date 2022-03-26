@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Intelligence Collection Methods, Software Engineering, Computer Engineering, Philosophy of Mind, 
 -    Neurophilosophy
 - 🌱 I’m currently learning ... C
-- 💞️ I’m looking to collaborate on ... time8machine
+- 💞️ I’m looking to collaborate on ... modeling cognitive processes
 - 📫 How to reach me ... drake@time8machine 
 - 🕸
 -    NEURAL METH·OD·OL·O·GY ... 𝚫  
