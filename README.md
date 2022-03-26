@@ -14,5 +14,7 @@
 <!--- 
 qua·li·a/time8machine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->           
+--->    
+💡Cognitive modeling is an area of computer science that deals with simulating human problem-solving and mental processing in a computerized model. Such a     model can be used to simulate or predict human behavior or performance on tasks similar to the ones modeled and improve human-computer interaction.
+ 
 ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
