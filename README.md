@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... C
 - 💞️ I’m looking to collaborate on ... modeling cognitive processes
 - 📫 How to reach me ... drake@time8machine 
-- 🕸 Computation of Consciousness 
+- 🕸 Computation of Consciousness ... 💭 
 
 1
 
