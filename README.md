@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @time8machine
 - 👀 I’m interested in ... Intelligence Collection Methods, Software Engineering, Computer Engineering, Philosophy of Mind, 
-- 🕸 Neurophilosophy
+- Neurophilosophy, modeling cognitive processes,  heuristic methods, problem representation and search methods, classic AI techniques, and a review       - of the controversial issues of the AI paradigm of cognition as computation.
 - 🌱 I’m currently learning ... C
 - 💞️ I’m looking to collaborate on ... modeling cognitive processes
 - 📫 How to reach me ... drake@time8machine 
-- A COMPUTATION OF CONSCIOUSNESS 
+- 🕸 Computation of Consciousness 
 
 1
 
@@ -25,7 +25,7 @@
 1 8 28 56 70 56 28 8 1
 
 1 9 36 84 126 126 84 36 9 1 
--    time8machine 𝚫  A COMPUTATION OF CONSCIOUSNESS 
+-    time8machine 𝚫  Extensions of Consciousness 
 -    PHIL/CSCI 4550/6550
 -    Artificial Intelligence
 -    
