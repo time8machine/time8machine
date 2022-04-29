@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @time8machine
 - 👀 I’m interested in ... Narrative Theory, Intelligence Collection Methods, Software Engineering, Computer Engineering, Philosophy of Mind, Laws of Motion
 - Neurophilosophy, modeling cognitive processes,  heuristic methods, problem representation and search methods, classic AI techniques, and a review       - of the controversial issues of the AI paradigm of cognition as computation.
-- 🌱 I’m currently learning ... C
+- 🌱 I’m currently learning ... HarvardX CS50x
 - 💞️ I’m looking to collaborate on ... modeling cognitive processes
 - 📫 How to reach me ... drake@time8machine 
 - 🕸 Computation of Consciousness ... 💭 
